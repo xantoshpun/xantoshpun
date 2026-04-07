@@ -50,14 +50,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xantoshpun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xantoshpun&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=xantoshpun&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xantoshpun&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xantoshpun&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xantoshpun&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xantoshpun&theme=tokyonight"/>
 
 </div>
 
